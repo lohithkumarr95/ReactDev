@@ -1,0 +1,30 @@
+{
+  "name": "react_app",
+  "version": "1.0.0",
+  "description": "React App",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lohithkumarr95/ReactDev.git"
+  },
+  "keywords": [],
+  "author": "Lohith Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lohithkumarr95/ReactDev/issues"
+  },
+  "homepage": "https://github.com/lohithkumarr95/ReactDev#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1"
+  }
+}
