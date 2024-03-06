@@ -12,7 +12,7 @@ const Header = () => {
       <div className="nav-items">
         <ul>
           <li><Link to='/'>Home</Link></li>
-          <li><Link to='/contact'>Menu</Link></li>
+          <li><Link to='/contact'>Contact</Link></li>
           <li><Link to='/about'>About Us</Link></li>
           <li>User</li>
           <button onClick={()=>{
